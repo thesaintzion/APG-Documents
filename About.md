@@ -1,5 +1,4 @@
 Algorithm Powered games give you simple and clear explanations for algorithms and data structures used in some popular games. 
-
 The main aim is to teach you algorithms and data structures in a fun way.
 
 The content includes games that were developed using graph algorithms, binary search trees, linked lists, and sorting.
